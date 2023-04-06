@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @virsince2003
+- 👋 Hi, I’m Virender Chauhan.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Data science.
 - ## 🌐 Socials:
