@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78F42&random=false&width=435&lines=Welcome+to+my+profile.;+Hi%2C+I%E2%80%99m+Virender+Chauhan.;I'm+obsessed+with+Transformers+and+Generative+A.I+)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c2d2e&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F78136&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Page+;+Hi%2C+I%E2%80%99m+Virender+Chauhan.;I'm+obsessed+with+Transformers+;And+Generative+A.I+)](https://git.io/typing-svg)
+
+[![Virender's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virsince2003&bg_color=242526&color=edbd4e&point=edbd4e&area=true&hide_border=true)](https://github.com/SiddharthUchil/github-readme-activity-graph)
+
 - ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vir_since2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virender-chauhan-1277701a9/ ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@virchauhan657 ) 
 
