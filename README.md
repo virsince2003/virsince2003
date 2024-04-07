@@ -4,9 +4,6 @@
 
 [![Virender's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virsince2003&bg_color=242526&color=edbd4e&point=edbd4e&area=true&hide_border=true)](https://github.com/SiddharthUchil/github-readme-activity-graph)
 
-- ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vir_since2003) [![LinkedIn](https://www.linkedin.com/in/virenderchauhan2003/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@virchauhan657 ) 
-
 # 💻 Tech Stack:
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
